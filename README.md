@@ -15,3 +15,5 @@ WORKFLOW OF THE DOUBLE CAP :
 6) The GMO are returned to the lab to be destroyed
 
 MATERIAL NEEDED :
+• 3D printer (one head is sufficient)
+• PLA or ABS filaments (both have been tested for this piece and work) at least 0.7m
