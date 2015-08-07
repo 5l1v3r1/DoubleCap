@@ -1,6 +1,8 @@
 # DoubleCap
 A prototype for a double for secure water sample collection with a confined bioreporter.
 
+---in progress---
+
 AIM : <br>
 • Assuring secure samples collection in the field <br>
 • Keeping the GMO reporter bacteria from being released into the environment <br>
