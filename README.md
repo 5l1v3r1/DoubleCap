@@ -1,5 +1,5 @@
 # DoubleCap
-A prototype for a double for secure water sample collection with a confined bioreporter.
+A prototype for a double cap for secure water sample collection with a confined bioreporter.
 
 ---in progress---
 
@@ -7,6 +7,12 @@ AIM : <br>
 • Assuring secure samples collection in the field <br>
 • Keeping the GMO reporter bacteria from being released into the environment <br>
 • No extra wastes produced <br>
+
+IDEA : 
+• A double cap to connect the water sample one side and the bioreporter on the other side
+• An aluminum seal coverts the bioreporter vial to prevent GMO outflow
+• The seal is pierced by a connector between the two caps after starting screwing
+
 
 WORKFLOW OF THE DOUBLE CAP : <br>
 1) The bioreporter is prepared in the lab and the vial is sealed. Then the vial is closed by a cap for the transport. <br>
@@ -16,6 +22,9 @@ WORKFLOW OF THE DOUBLE CAP : <br>
 5) The two substances are mixed, the two vials stays fixed one with the other by the double cap <br>
 6) The GMO are returned to the lab to be destroyed <br>
 
+
 MATERIAL NEEDED : <br>
 • 3D printer (one head is sufficient) <br>
-• PLA or ABS filaments (both have been tested for this piece and work) at least 0.7m <br>
+• PLA or ABS filaments (both have been tested for this piece and worked) at least 0.7m <br>
+• File .stl of the whole double cap
+
