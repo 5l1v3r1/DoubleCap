@@ -20,6 +20,7 @@ WORKFLOW OF THE DOUBLE CAP : <br>
 4) After removing the cap, the bioreporter vial is screwed to the other side (with connector) <br>
 5) The two substances are mixed, the two vials stays fixed one with the other by the double cap <br>
 6) The GMO are returned to the lab to be destroyed <br>
+(see the picture "Worklow - DoubleCap.png" on this folder)
 
 
 MATERIAL NEEDED : <br>
@@ -27,3 +28,7 @@ MATERIAL NEEDED : <br>
 • PLA or ABS filaments (both have been tested for this piece and worked) at least 0.7m long <br>
 • File .stl of the whole double cap
 
+OTHER POSSIBILITY : <br>
+If you already have two caps, you can also 3D-print the connector part, which allows to pierce the aluminium and the contact between the two samples. <br>
+After printing the connector, you just have to glue it with a hermetic and waterproof glue between the two cap. <br>
+Two files .stl are available for this connector : one for a thickness of 0.5mm and the other one for 1mm.
