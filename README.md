@@ -29,6 +29,6 @@ MATERIAL NEEDED : <br>
 • File .stl of the whole double cap
 
 OTHER POSSIBILITY : <br>
-If you already have two caps, you can also 3D-print the connector part, which allows to pierce the aluminium and the contact between the two samples. <br>
+If you already have two perforated caps, you can also 3D-print the connector part, which allows to pierce the aluminium and the contact between the two samples. <br>
 After printing the connector, you just have to glue it with a hermetic and waterproof glue between the two cap. <br>
 Two files .stl are available for this connector : one for a thickness of 0.5mm and the other one for 1mm.
